@@ -1,0 +1,24 @@
+.timer-container {
+  text-align: center;
+}
+
+.timer {
+  font-family: Arial, sans-serif;
+  font-size: 3rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
